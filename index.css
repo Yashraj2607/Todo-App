@@ -1,0 +1,59 @@
+h1{
+    text-align: center;
+}
+#todo{
+   height: 30px;
+   width: 250px; 
+   border-radius: 10px;
+}
+
+#submit{
+    height:40px;
+    width: 150px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+    margin-left: 6%;
+}
+
+#main{
+margin-left: 40%;
+  
+}
+
+#showtodo{
+    border: 1px solid red;
+    width: 270px;
+    border-radius: 5px;
+   
+}
+
+#showtodo>p{
+    text-align: center;
+}
+
+.box{
+    border: 1px solid blue;
+    margin:50px;
+    text-align: center;
+    padding: 5px;
+    border-radius: 10px;
+    height:150px;
+   
+}
+
+#showtodo>h1{
+    text-align: center;
+}
+
+.einput{
+ color: blue;
+ width: 80px;
+ margin-top: 20px;
+ height: 25px;
+}
+
+.esubmit{
+    height: 28px;   
+}
